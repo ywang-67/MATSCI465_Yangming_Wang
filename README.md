@@ -3,10 +3,9 @@ Miniconda Python 3.10.19; Installed packages: Jupyter Lab, NumPy, SciPy, Matplot
 
 **Week 1:**
 
-**py4DSTEM has not been properly installed, so the assignment was done using Google Colab.**
+py4DSTEM has not been properly installed, so the assignment was done using Google Colab.
 
 **===========================================================================================**
 **Week 2:**
 
-**Virtual detectors enable post-acquisition imaging by utilizing the rich data captured in 4D-STEM, where a complete 2D diffraction pattern is recorded for every pixel in the scan. Unlike traditional STEM, which relies on fixed physical hardware to integrate signals during the experiment, 4D-STEM allows users to apply software "masks" (virtual apertures) to the recorded diffraction patterns computationally. This means a single dataset can be reprocessed infinitely to generate any type of image—Bright Field, Dark Field, or specific diffraction contrasts—by simply selecting which scattered electrons to integrate, effectively simulating any detector geometry long after the sample has been removed from the microscope.**
-
+A virtual detector allows post-acquisition imaging by recording the diffraction pattern at each pixel in a scan, rather than just a total intensity value. This creates a comprehensive 4D dataset that enables researchers to apply software-based masks—simulating physical detectors of any shape or size after the experiments. Consequently, a single scan can be mathematically reprocessed to generate multiple image contrasts. This can optimize the visualization of specific material properties, such as lattice defects or phases, without additional radiation exposure to the sample.
