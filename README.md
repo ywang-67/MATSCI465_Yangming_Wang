@@ -11,7 +11,7 @@ py4DSTEM has not been properly installed, so the assignment was done using Googl
 
 **Week 2:**
 
-The notebook is uploaded into the directory Week_02/assignments.
+**The notebook was uploaded to the Week_02/assignments directory.**
 
 How do virtual detectors allow post-acquisition imaging?
 
