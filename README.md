@@ -1,17 +1,17 @@
 # MATSCI465_Yangming_Wang
 Miniconda Python 3.10.19; Installed packages: Jupyter Lab, NumPy, SciPy, Matplotlib, HyperSpy, py4DSTEM
 
-**===========================================================================================**
+**===================================================**
 
 **Week 1:**
 
 py4DSTEM has not been properly installed, so the assignment was done using Google Colab.
 
-**===========================================================================================**
+**===================================================**
 
 **Week 2:**
 
-The notebook is uploaded into directory Week 2/Assignment
+The notebook is uploaded into the directory Week_02/assignments.
 
 How do virtual detectors allow post-acquisition imaging?
 
