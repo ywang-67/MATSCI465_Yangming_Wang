@@ -1,4 +1,0 @@
-Method,F1-Score,Precision,Recall,Silhouette Score
-SVM,0.8230,0.7845,0.8654,-
-Random Forest,0.9636,0.9609,0.9663,-
-K-Means (k=3),-,-,-,0.1776
