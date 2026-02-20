@@ -1,0 +1,5 @@
+Method,PrimaryMetric,Score,Runtime (ms),Data Required,Interpretability,Automation
+Watershed (Classical),Area CV (std/mean),2.420351438367769,~50,Single image,Very High,High
+SVM (ML),F1-Score,0.9944250871080139,~150,100+ samples,Medium,Medium
+Random Forest (ML),F1-Score,1.0,~100,100+ samples,Medium-High,Medium
+"K-Means (Unsupervised, k=5)",Silhouette,0.2655871742665128,~200,100+ samples,Low,Low
